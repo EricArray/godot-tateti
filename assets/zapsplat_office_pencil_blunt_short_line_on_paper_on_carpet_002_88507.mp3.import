@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/zapsplat_office_pencil_blunt_short_line_on_paper_on_carpet_002_88507.mp3-66a10a695555e09ea6b142da002b5058.mp3str"
+
+[deps]
+
+source_file="res://assets/zapsplat_office_pencil_blunt_short_line_on_paper_on_carpet_002_88507.mp3"
+dest_files=[ "res://.import/zapsplat_office_pencil_blunt_short_line_on_paper_on_carpet_002_88507.mp3-66a10a695555e09ea6b142da002b5058.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
